@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Student | Developer</h3>
 
 - 🌱 I’m currently learning **Data Analytics** and **Django**
-- 📫 My portfolio is available [here](#) <!-- Add your portfolio link -->
+- 📫 My portfolio is available [here](https://sakshamnagar.my.canva.site/) <!-- Add your portfolio link -->
 - 💬 Ask me about **Python, Data Science, and Django**
 
 <h3 align="left">Connect with me:</h3>
