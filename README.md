@@ -33,7 +33,7 @@
 
 <h3 align="left">Popular Repositories:</h3>
 
-- 🔥 [Project-Omnifood](https://github.com/Sakshamnagar-7227/File_Organizer)
-- 📁 [Google-Clone](https://github.com/Sakshamnagar-7227/Tic-Tac-Toe)
+- 🔥 [File_Organizer](https://github.com/Sakshamnagar-7227/File_Organizer)
+- 📁 [Tic-Tac-Toe](https://github.com/Sakshamnagar-7227/Tic-Tac-Toe)
 
 ---
